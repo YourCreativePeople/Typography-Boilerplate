@@ -1,2 +1,2 @@
-Typography-Boilerplate
-======================
+Typography Boilerplate
+-
